@@ -160,6 +160,7 @@ Enjoy :)
 | ------ | ------------------------------------------------------ |---------------------|
 | 1 | [**UI.Vision RPA**](https://chromewebstore.google.com/detail/uivision-rpa/gcbalfbdmfieckjlnblleoemohcganoc) | Open-Source RPA and Web Automation Tools for macOS, Linux, and Windows to automate web and desktop apps. |
 | 2 | [**HubSpot’s Guide Creator**](https://www.hubspot.com/guide-creator) | Create step-by-step guides effortlessly to streamline developer onboarding and/or documentation for users. |
+| 3 | [**Brodlin PDF**](https://chromewebstore.google.com/detail/brodlin-pdf/mnkkdekfplcmilgjkbaeplebbhpmjmin) | Read and annotate PDFs in Chrome. Add highlights, notes and visual signatures, then download an edited copy. Local tools work without an account. |
 
 ### 🌐🔒 Virtual Private Network (VPN) Extensions
 ---
@@ -396,3 +397,4 @@ Enjoy :)
 ---
 
 If you would like to make a valuable contribution to this list, we kindly ask you to take a moment to review our [Contributing Guidelines](https://github.com/themeselection/best-chrome-extensions/blob/main/CONTRIBUTING.md) . 
+
